@@ -7,7 +7,7 @@
 }
 
 .cucumber-report .description {
-  font-style: italic;
+  font-style: roman;
   margin-left: 20px;
   white-space: pre;
 }
