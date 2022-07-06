@@ -68,7 +68,7 @@
 }
 
 .cucumber-report .tags {
-  display: inline;
+  display: outline;
 }
 
 .cucumber-report .tag {
